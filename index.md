@@ -64,3 +64,8 @@ if __name__ == '__main__':  #字面上，这是一个if判断，而__name__是�
     print(zifu(str1, str2))
 
 ```
+
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
